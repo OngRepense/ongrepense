@@ -5,6 +5,7 @@ Nós da ONG Repense acreditamos que a Educação e o acesso à Informação de q
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
 <p>
   <a href="https://www.linkedin.com/company/repense-ong/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+   <a href="https://www.linkedin.com/company/repense-ong/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram" alt="LinkedIn"></a>
 </p>
 
 <hr>
