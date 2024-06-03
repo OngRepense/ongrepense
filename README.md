@@ -1,16 +1,6 @@
 <img src="https://github.com/dnetochaves/dnetochaves/blob/main/banner.png" alt="Image showing Dennis Hartrampf, team lead software development">
 
-Sou um profissional experiente em Análise e Desenvolvimento de Sistemas com mais de 10 anos de vivência em projetos desafiadores. Atualmente cursando pós-graduação em Arquitetura de Software, busco aprimorar minhas habilidades e me manter atualizado com as últimas tendências do mercado.
-
-Apaixonado por codificação e com grande entusiasmo por criar soluções inovadoras e eficientes. Acredito que a tecnologia tem o poder de transformar o mundo e me dedico a utilizar meus conhecimentos para fazer a diferença.
-
-Minhas principais habilidades:
-
-Linguagens de Programação: Python, Django</br>
-Sistemas Operacionais: Linux</br>
-DevOps: Automação de infraestrutura e pipelines de entrega contínua</br>
-Desenvolvimento Mobile: Dart, Flutter</br>
-Sempre em busca de novos desafios e oportunidades para expandir meus horizontes e contribuir para o sucesso de projetos complexos.
+Nós da ONG Repense acreditamos que a Educação e o acesso à Informação de qualidade são fatores de extrema importância para que possamos mudar de vida. Nosso objetivo é bem simples: FAZER A DIFERENÇA NA VIDA DAS PESSOAS. Por isso decidimos constituir a Repense, uma ONG que visa capacitar pessoas, conectando pessoas.
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
 <p>
