@@ -1,4 +1,4 @@
-<img src="https://github.com/OngRepense/ongrepense/blob/main/capa-app.png" alt="Image showing Dennis Hartrampf, team lead software development">
+<img src="https://github.com/OngRepense/ongrepense/blob/main/capa.jpeg" alt="Image showing Dennis Hartrampf, team lead software development">
 
 Nós da ONG Repense acreditamos que a Educação e o acesso à Informação de qualidade são fatores de extrema importância para que possamos mudar de vida. Nosso objetivo é bem simples: FAZER A DIFERENÇA NA VIDA DAS PESSOAS. Por isso decidimos constituir a Repense, uma ONG que visa capacitar pessoas, conectando pessoas.
 
