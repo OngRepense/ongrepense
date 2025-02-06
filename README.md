@@ -11,7 +11,7 @@ Nós da ONG Repense acreditamos que a Educação e o acesso à Informação de q
 <hr>
 
 
-
+Nós da ONG Repense acreditamos que a educação e o acesso à Informação de qualidade são fatores de extrema importância para que possamos mudar de vida.
 
 "Os céus declaram a glória de Deus; o firmamento proclama a obra das suas mãos.
 Um dia fala disso a outro dia; uma noite o revela a outra noite.
